@@ -1,0 +1,52 @@
+repo:-https://github.com/vinitha1609/automationtest.git
+config username :- git config --global user.name "vinitha1609"
+
+Vini@Vini-PC MINGW64 ~
+$ git --version
+git version 2.36.0.windows.1
+
+Vini@Vini-PC MINGW64 ~
+$ git config --global user.name "vinitha1609"
+
+Vini@Vini-PC MINGW64 ~
+$ git config user.name
+vinitha1609
+
+Vini@Vini-PC MINGW64 ~
+$ git config --global user.email "vinithav0208@gmail.com"
+
+Vini@Vini-PC MINGW64 ~
+$ git config user.email
+vinithav0208@gmail.com
+
+Vini@Vini-PC MINGW64 ~
+$
+$ git config --list
+--to check all configs
+
+
+creating repo
+Vini@Vini-PC MINGW64 ~
+$ cd E:
+
+Vini@Vini-PC MINGW64 /e
+$ cd Trainings/
+
+Vini@Vini-PC MINGW64 /e/Trainings
+$ mkdir Git
+
+Vini@Vini-PC MINGW64 /e/Trainings
+$ cd Git/
+
+Vini@Vini-PC MINGW64 /e/Trainings/Git
+$ mkdir CodeRepo
+
+Vini@Vini-PC MINGW64 /e/Trainings/Git
+$ cd CodeRepo/
+
+Vini@Vini-PC MINGW64 /e/Trainings/Git/CodeRepo
+$ git init
+Initialized empty Git repository in E:/Trainings/Git/CodeRepo/.git/
+
+Vini@Vini-PC MINGW64 /e/Trainings/Git/CodeRepo (master)
+$
